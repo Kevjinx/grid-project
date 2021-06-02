@@ -44,12 +44,44 @@ hr {
 /* Main Grid Styles */
 
 
+/* .wrapper {
+  margin: 0 3%;
+}
+.grid__section {
+  display: grid;
+}
+
+.grid__item {
+  border: 1px solid black;
+} */
 
 /* Grid Section 1 - Flex Styles */
+/* .flex-container-1 {
+  display: flex;
+  flex-direction: row;
+  height: 50px;
+}
 
+.flex__item{
+  width: 25%;
+  border: 1px solid black;
+}
+.flex__item-4, .flex__item-5 {
+  width: 12.5%
+} */
 
 
 /* Grid Section 2 - Nested Grid Styles */
+
+/* .grid__section-2 {
+  grid-template-columns: 2fr 1fr 2fr;
+  grid-template-rows: 3fr 2fr 2f 3fr 2fr;
+}
+
+.grid__item-2-1 {
+  grid-column-start: 1;
+  grid-column-end: 4;
+} */
 
 
 
